@@ -41,3 +41,6 @@ By completing this milestone, learners will:
 
 - Node.js (version 16 or higher)
 - A code editor (e.g., **VS Code**) with Tailwind and TypeScript extensions
+
+## Deployment Link 
+https://marini-shop.netlify.app/ 
